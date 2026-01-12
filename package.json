@@ -1,5 +1,5 @@
 {
-  "name": "wtfb-project",
+  "name": "mr-james",
   "version": "1.4.0",
   "description": "WTFB Creative Project",
   "private": true,
@@ -16,7 +16,7 @@
     "cspell": "^8.0.0",
     "fountain-js": "^1.2.4",
     "husky": "^9.0.0",
-    "lint-staged": "^15.0.0",
+    "lint-staged": "^15.5.2",
     "markdownlint-cli2": "^0.20.0"
   },
   "lint-staged": {

@@ -1,16 +1,15 @@
 {
   "$schema": "https://wtfb.io/schemas/project.v1.json",
   "projectType": "screenplay",
-  "name": "wtfb-project",
-  "version": "1.4.0",
+  "name": "mr-james",
+  "version": "1.0.0",
   "template": {
     "upstream": "https://github.com/bybren-llc/wtfb-projects-template",
-    "version": "1.4.0",
-    "lastSync": null
+    "version": "1.0.0",
+    "lastSync": "2026-01-12T19:31:10Z"
   },
   "plugins": {
     "installed": [],
-    "precedence": [],
     "optional": [
       {
         "name": "wtfb-screenwriting",
@@ -42,7 +41,6 @@
     ".github/workflows/**",
     "scripts/**",
     ".wtfb/ai-harness/**",
-    "templates/**",
-    "patterns/**"
+    "templates/**"
   ]
 }

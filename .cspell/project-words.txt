@@ -111,3 +111,19 @@ Vogler
 # Claude Code terms
 frontmatter
 agentskills
+
+# Dialogue/Writing techniques
+Speakability
+throughlines
+
+# Film titles and references
+Goodfellas
+
+# VS Code
+autofetch
+
+# Descriptions
+Unfilmable
+
+# Project contributors
+Bren
