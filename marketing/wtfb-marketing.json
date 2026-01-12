@@ -1,0 +1,190 @@
+{
+  "$schema": "https://wtfb.io/schemas/wtfb-marketing.v1.json",
+  "version": "0.9.98",
+
+  "project": {
+    "id": "wtfb-projects-template",
+    "title": "WTFB Projects Template",
+    "subtitle": "Multi-AI Harness for Creative Projects",
+    "logline": "A comprehensive template with 11-agent teams for screenplay, novel, and film production development.",
+    "type": "template",
+    "status": "beta",
+    "year": 2026
+  },
+
+  "metadata": {
+    "genres": ["Development Tools", "Creative Writing", "AI"],
+    "themes": ["Multi-AI", "Screenwriting", "Novel Writing", "Film Production"],
+    "keywords": ["claude", "gemini", "codex", "screenplay", "fountain", "ai-harness", "template"],
+    "runtime": null,
+    "rating": null,
+    "language": "English",
+    "setting": null
+  },
+
+  "creators": {
+    "primary": {
+      "name": "J. Scott Graham",
+      "handle": "@cheddarfox",
+      "wtfbUserId": "cheddarfox",
+      "role": "Creator",
+      "bio": "Founder of Words To Film By™",
+      "links": {
+        "website": "https://jscottgraham.us",
+        "github": "https://github.com/cheddarfox"
+      }
+    },
+    "organization": {
+      "name": "Bybren LLC",
+      "wtfbUserId": "bybren-llc",
+      "role": "Organization",
+      "links": {
+        "website": "https://wordstofilmby.com",
+        "github": "https://github.com/bybren-llc"
+      }
+    },
+    "contributors": []
+  },
+
+  "marketing": {
+    "tagline": "Your creative AI team, ready to work",
+    "oneSheet": {
+      "headline": "Multi-AI Harness for Creative Projects",
+      "synopsis": "A comprehensive template featuring 11 specialized agents, 30+ commands, and 17 patterns for screenplay, novel, and film production development. Supports Claude Code, Gemini CLI, and OpenAI Codex.",
+      "callToAction": "Get Started"
+    },
+    "assets": {
+      "poster": "assets/poster.png",
+      "banner": "assets/banner.png",
+      "socialCards": {
+        "twitter": "assets/social/twitter-card.png",
+        "og": "assets/social/og-image.png"
+      }
+    },
+    "quotes": []
+  },
+
+  "platform": {
+    "visibility": "public",
+    "featured": true,
+    "allowFunding": true,
+    "allowInquiries": true,
+    "contactEmail": "scott@wordstofilmby.com"
+  },
+
+  "commerce": {
+    "enabled": false,
+    "stripeAccountId": null,
+    "products": []
+  },
+
+  "analytics": {
+    "posthogProjectId": null,
+    "trackingEvents": [
+      "page_view",
+      "template_clone",
+      "plugin_install",
+      "sponsor_click"
+    ],
+    "customProperties": {}
+  },
+
+  "funding": {
+    "enabled": true,
+    "goal": null,
+    "currency": "USD",
+    "tiers": [
+      {
+        "id": "supporter",
+        "name": "Supporter",
+        "amount": 5,
+        "frequency": "monthly",
+        "description": "Name in README supporters section",
+        "limit": null,
+        "enabled": true
+      },
+      {
+        "id": "contributor",
+        "name": "Contributor",
+        "amount": 25,
+        "frequency": "monthly",
+        "description": "Logo in README + Discord role",
+        "limit": null,
+        "enabled": true
+      },
+      {
+        "id": "patron",
+        "name": "Patron",
+        "amount": 100,
+        "frequency": "monthly",
+        "description": "Logo + Priority support + Beta access",
+        "limit": null,
+        "enabled": true
+      },
+      {
+        "id": "partner",
+        "name": "Partner",
+        "amount": 500,
+        "frequency": "monthly",
+        "description": "Large logo + Co-development sessions + Feature requests",
+        "limit": 5,
+        "enabled": true
+      },
+      {
+        "id": "coffee",
+        "name": "Coffee",
+        "amount": 10,
+        "frequency": "one-time",
+        "description": "Thank you mention",
+        "limit": null,
+        "enabled": true
+      },
+      {
+        "id": "dinner",
+        "name": "Dinner",
+        "amount": 50,
+        "frequency": "one-time",
+        "description": "Name in supporters list",
+        "limit": null,
+        "enabled": true
+      },
+      {
+        "id": "weekend",
+        "name": "Weekend",
+        "amount": 100,
+        "frequency": "one-time",
+        "description": "Logo in README for 3 months",
+        "limit": null,
+        "enabled": true
+      },
+      {
+        "id": "champion",
+        "name": "Champion",
+        "amount": 500,
+        "frequency": "one-time",
+        "description": "Logo in README for 1 year",
+        "limit": null,
+        "enabled": true
+      }
+    ]
+  },
+
+  "rights": {
+    "ownership": "bybren-llc",
+    "registrations": [],
+    "licensing": {
+      "type": "MIT",
+      "optionAvailable": false,
+      "purchaseAvailable": false,
+      "contactRequired": false
+    }
+  },
+
+  "social": {
+    "hashtag": "#WTFB",
+    "handles": {
+      "github": "bybren-llc"
+    },
+    "shareText": "Check out the WTFB Projects Template - Multi-AI harness for creative projects!"
+  }
+}

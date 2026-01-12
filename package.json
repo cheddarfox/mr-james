@@ -1,0 +1,57 @@
+{
+  "name": "wtfb-project",
+  "version": "1.4.0",
+  "description": "WTFB Creative Project",
+  "private": true,
+  "scripts": {
+    "validate": "npm run lint:fountain && npm run lint:md && npm run lint:spell && npm run validate:capabilities",
+    "validate:capabilities": "node scripts/validate-capabilities.js",
+    "lint:fountain": "node scripts/validate-fountain.js",
+    "lint:md": "markdownlint-cli2 '**/*.md' '#node_modules'",
+    "lint:spell": "cspell '**/*.{md,fountain,txt}' --no-progress",
+    "init": "bash scripts/init-project.sh",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "cspell": "^8.0.0",
+    "fountain-js": "^1.2.4",
+    "husky": "^9.0.0",
+    "lint-staged": "^15.0.0",
+    "markdownlint-cli2": "^0.20.0"
+  },
+  "lint-staged": {
+    "*.md": [
+      "markdownlint-cli2 --fix",
+      "cspell --no-must-find-files"
+    ],
+    "*.fountain": [
+      "node scripts/validate-fountain.js",
+      "cspell --no-must-find-files"
+    ]
+  },
+  "keywords": [
+    "wtfb",
+    "screenplay",
+    "fountain",
+    "creative",
+    "film",
+    "novel",
+    "production"
+  ],
+  "author": {
+    "name": "J. Scott Graham",
+    "email": "scott@wordstofilmby.com",
+    "url": "https://jscottgraham.us"
+  },
+  "contributors": [
+    {
+      "name": "Bybren LLC",
+      "url": "https://github.com/bybren-llc"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bybren-llc/wtfb-projects-template.git"
+  }
+}

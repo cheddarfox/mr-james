@@ -1,0 +1,70 @@
+# Markdownlint configuration for WTFB projects
+# Relaxed rules for creative/documentation projects
+
+config:
+  # Disable line length limit - prose has long paragraphs
+  MD013: false
+
+  # Allow inline HTML - needed for formatting
+  MD033: false
+
+  # Allow non-H1 first heading
+  MD041: false
+
+  # Allow trailing punctuation in headings
+  MD026: false
+
+  # Allow duplicate headings (templates have repeated section names)
+  MD024: false
+
+  # Relax blank line requirements for readability
+  MD022: false  # Headings don't need blank lines
+  MD031: false  # Fenced code blocks don't need blank lines
+  MD032: false  # Lists don't need blank lines
+
+  # Allow code blocks without language specified
+  MD040: false
+
+  # Allow emphasis as heading (common in creative docs)
+  MD036: false
+
+  # Allow bare URLs
+  MD034: false
+
+  # Allow any ordered list prefix style
+  MD029: false
+
+  # Allow multiple H1 headings (templates may need this)
+  MD025: false
+
+  # Allow mixed heading styles
+  MD003: false
+
+  # Allow files without trailing newline
+  MD047: false
+
+  # Allow mixed emphasis styles (asterisk/underscore)
+  MD049: false
+
+  # Allow spaces in emphasis markers
+  MD037: false
+
+  # Allow table column count mismatches
+  MD056: false
+
+  # Allow multiple consecutive blank lines
+  MD012: false
+
+  # Allow flexible table pipe style (for Jekyll templates)
+  MD055: false
+
+  # Allow tables without blank lines around them
+  MD058: false
+
+  # Allow compact table style (new in markdownlint 0.40.0)
+  MD060: false
+
+globs:
+  - "**/*.md"
+  - "!node_modules/**"
+  - "!exports/**"

@@ -1,0 +1,113 @@
+# Project-specific words
+# Add character names, locations, and custom terms here
+
+# WTFB terms
+wordstofilmby
+wtfb
+bybren
+
+# Technical terms
+tshirt
+merch
+printful
+parentheticals
+sourcematerials
+
+# Screenplay terms
+logline
+beatsheet
+slugline
+intercut
+
+# File types
+fdx
+epub
+
+# VS Code extension publishers
+piersdeseilligny
+betterfountain
+davidanson
+yzhang
+esbenp
+eamodio
+
+# AI tools
+gemini
+openai
+codex
+harness
+subagent
+multiline
+
+# Git/workflow terms
+husky
+typicode
+precommit
+npx
+lifecycle
+kebab
+
+# Agent names
+annotator
+posthog
+
+# Formats
+toml
+
+# Payment/finance
+zelle
+paypal
+kofi
+
+# Jekyll template keywords
+endfor
+endif
+
+# Hollywood terms
+showrunner
+biostatistician
+filmable
+loglines
+pitchable
+setpieces
+reimagining
+misformatted
+hitman
+
+# Film terms and references
+Mcguffin
+Vogler's
+Metafictive
+Sundance
+cardstock
+Acco
+
+# Character names (examples in skills)
+Anakin
+Skywalker
+Palpatine
+Katniss
+CLANE
+NICKY
+ROCKO
+Deadpool
+Bueller
+Napolitano
+Backos
+
+# Movie titles (intentional spelling)
+Happyness
+
+# Screenwriting tools
+afterwriting
+screenplain
+pipx
+Trelby
+
+# Writing terms
+comedically
+Vogler
+
+# Claude Code terms
+frontmatter
+agentskills

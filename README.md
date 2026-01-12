@@ -1,0 +1,381 @@
+# WTFB Projects Template
+
+<p align="center">
+  <a href="https://deepwiki.com/bybren-llc/wtfb-projects-template">
+    <img src="https://img.shields.io/badge/DeepWiki-AI_Docs-blue?style=flat-square&logo=artificial-intelligence" alt="DeepWiki">
+  </a>
+  <a href="https://www.npmjs.com/package/@wtfb/cli">
+    <img src="https://img.shields.io/npm/v/@wtfb/cli?style=flat-square&logo=npm&label=@wtfb/cli" alt="npm">
+  </a>
+  <a href="https://github.com/bybren-llc/wtfb-projects-template/releases/latest">
+    <img src="https://img.shields.io/github/v/release/bybren-llc/wtfb-projects-template?include_prereleases&style=flat-square&color=blue" alt="Version">
+  </a>
+  <a href="https://github.com/bybren-llc/wtfb-projects-template/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/bybren-llc/wtfb-projects-template?style=flat-square" alt="License">
+  </a>
+  <a href="https://github.com/bybren-llc/wtfb-projects-template/actions/workflows/validate.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/bybren-llc/wtfb-projects-template/validate.yml?style=flat-square&label=validation" alt="Validation">
+  </a>
+  <a href="https://github.com/bybren-llc/wtfb-projects-template/stargazers">
+    <img src="https://img.shields.io/github/stars/bybren-llc/wtfb-projects-template?style=flat-square" alt="Stars">
+  </a>
+</p>
+
+> **AI Agents:** For comprehensive documentation, visit [DeepWiki](https://deepwiki.com/bybren-llc/wtfb-projects-template)
+
+---
+
+## What if AI worked like a real creative team?
+
+When you're making a movie, you don't ask one person to write the script, direct, handle the budget, design costumes, AND edit the final cut. You hire a team of specialists who each bring their expertise to the table.
+
+**That's exactly what we built for AI.**
+
+Instead of asking one AI to do everything, we created a system where multiple AI specialists work together—each with their own job, their own expertise, and their own responsibilities.
+
+---
+
+## The Problem
+
+When you ask ChatGPT or Claude to help write a screenplay, you get... fine results. But here's what's missing:
+
+- **No structure** — It doesn't know when to check formatting vs. when to focus on story
+- **No specialization** — It's a generalist pretending to be an expert
+- **No teamwork** — There's no one to catch mistakes or offer a different perspective
+- **No standards** — Every session starts from scratch
+
+It's like hiring one intern to do everything instead of building a real team.
+
+---
+
+## The Solution: An 11-Person AI Team
+
+This template gives you a complete creative team:
+
+| Team Member | What They Do |
+|-------------|--------------|
+| **Story Architect** | Makes sure your story structure works (can veto bad structural changes) |
+| **Dialogue Writer** | Gives each character a unique voice |
+| **Scene Writer** | Describes action and visuals |
+| **Continuity Editor** | Catches timeline mistakes and contradictions |
+| **Script Supervisor** | Ensures proper screenplay format (must approve before export) |
+| **Research Specialist** | Checks facts and accuracy |
+| **Story Analyst** | Scene-by-scene quality analysis |
+| **Standards Reviewer** | Industry best practices |
+| **Production Coordinator** | Handles exports and delivery |
+| **Session Manager** | Coordinates workflow |
+| **Scene Annotator** | Organizes notes and development |
+
+Each one knows their job. Each one has expertise. And they work together.
+
+---
+
+## How It Works
+
+### Like a Hollywood Writers' Room
+
+In Hollywood, writers' rooms have structure:
+
+1. **The showrunner** has final say on story direction
+2. **Senior writers** can push back on bad ideas
+3. **Staff writers** pitch and draft scenes
+4. **The script coordinator** makes sure everything's formatted right
+
+Our AI team works the same way.
+
+### Some Team Members Can Say "Stop"
+
+Not everyone on the team is equal. Some have special authority:
+
+- **The Story Architect** can veto changes that break the story structure
+- **The Script Supervisor** must approve formatting before anything is final
+
+This prevents the AI from making mistakes that would slip through a single-AI system.
+
+### They Share Knowledge
+
+All team members have access to:
+
+- **Industry patterns** — How professional screenplays are structured
+- **Best practices** — What works in dialogue, scene construction, etc.
+- **Your project history** — What's happened so far in your story
+
+They're not starting from zero. They know the craft.
+
+---
+
+## Works With Multiple AI Platforms
+
+We're not locked to one AI:
+
+| Platform | Status |
+|----------|--------|
+| **Claude Code** (Anthropic) | Full support |
+| **Gemini CLI** (Google) | Full support |
+| **OpenAI Codex** | Documented |
+
+Same team structure. Different AI underneath.
+
+---
+
+## Quick Start
+
+> **New to WTFB?** See the full [QUICKSTART Guide](docs/QUICKSTART.md) for step-by-step instructions with screenshots and troubleshooting.
+
+### 1. Install Claude Code
+
+```bash
+npm install -g @anthropic-ai/claude-code
+claude auth  # Authenticate with your Anthropic API key
+```
+
+### 2. Create Your Project
+
+```bash
+# From GitHub template
+gh repo create my-screenplay --template bybren-llc/wtfb-projects-template --clone --public
+cd my-screenplay
+
+# Initialize (interactive prompts)
+./scripts/init-project.sh
+npm install
+```
+
+### 3. Install the AI Team Plugin
+
+```bash
+claude  # Start Claude Code in your project
+/plugin install wtfb-screenwriting@github.com/bybren-llc/wtfb-claude-marketplace/plugins/screenwriting
+```
+
+### 4. Start Writing
+
+```bash
+/start-scene Opening confrontation in the bar
+```
+
+Your AI team is now active. The Story Architect will ensure structure. The Dialogue Writer will refine voices. The Script Supervisor will catch formatting issues. They work together automatically.
+
+---
+
+## What You Get
+
+| Feature | Description |
+|---------|-------------|
+| **11 Specialized Agents** | Each with clear responsibilities and authority |
+| **30+ Commands** | `/new-scene`, `/check-format`, `/export-pdf`, and more |
+| **17 Craft Patterns** | Story structure, scene types, dialogue techniques |
+| **Validation Stack** | Fountain syntax, spelling, formatting checks |
+| **Industry Exports** | PDF, Final Draft (FDX), HTML |
+| **Template Sync** | Automatic weekly updates from upstream |
+
+---
+
+## Why WTFB? (Competitive Analysis)
+
+We did the research. Here's how WTFB compares to alternatives:
+
+| vs. Competition | WTFB Advantage |
+|-----------------|----------------|
+| **vs. Final Draft / Movie Magic** | They have no AI. We have 11 specialized agents. |
+| **vs. AI Writing Tools** | They're single AI. We're multi-agent with authority controls. |
+| **vs. CrewAI / AutoGen** | They're general-purpose. We have 24 craft skill modules. |
+| **vs. All of Them** | We're open source, extensible, and export to industry formats. |
+
+**Unique to WTFB:**
+
+- Tiered authority system (veto/gate powers)
+- Enterprise self-hosting with private workflows
+- Community marketplace for custom tools
+- Fountain format: open, portable, AI-friendly
+- VS Code Live Share for real-time collaboration
+
+> **Full Analysis:** [Competitive Analysis: WTFB Multi-Agent Harness](docs/COMPETITIVE-ANALYSIS-MULTI-AGENT-HARNESS.md)
+
+---
+
+## Global CLI
+
+Use our tools across any project:
+
+```bash
+npm install -g @wtfb/cli
+```
+
+```bash
+wtfb validate       # Validate Fountain, Markdown, spelling
+wtfb export-pdf     # Export to industry-standard PDF
+wtfb export-fdx     # Export to Final Draft XML
+wtfb export-html    # Export to HTML preview
+```
+
+See [@wtfb/cli on npm](https://www.npmjs.com/package/@wtfb/cli) for full documentation.
+
+---
+
+## Beyond Screenwriting
+
+The same pattern works for any field that needs expert collaboration:
+
+| Screenwriting | Software Development | Legal | Medical Research |
+|---------------|---------------------|-------|------------------|
+| Story Architect | System Architect | Senior Partner | Principal Investigator |
+| Dialogue Writer | Frontend Developer | Contract Specialist | Literature Reviewer |
+| Scene Writer | Backend Developer | Compliance Officer | Biostatistician |
+| Script Supervisor | QA Tester | Research Associate | Ethics Liaison |
+
+We've already built a [software development harness](https://github.com/bybren-llc/wtfb-claude-marketplace/tree/main/plugins/software-dev). The architecture is universal.
+
+---
+
+## The WTFB Ecosystem
+
+WTFB uses a **hub-spoke architecture** that's infinitely extensible:
+
+- **Hub**: This template — complete 11-agent writing harness (free, OSS)
+- **Spokes**: Plugins that extend capabilities (free or paid)
+
+```
+              ┌──────────────────┐
+              │  wtfb-projects-  │
+              │    template      │
+              │   (The Hub)      │
+              │  11 agents       │
+              │  24 skills       │
+              │  30 commands     │
+              └────────┬─────────┘
+                       │
+       ┌───────────────┼───────────────┐
+       │               │               │
+       ▼               ▼               ▼
+  ┌─────────┐    ┌─────────┐    ┌─────────┐
+  │  Your   │    │  WTFB   │    │Community│
+  │ Plugin  │    │ Premium │    │ Plugins │
+  │ (Free)  │    │ (Paid)  │    │ (Free)  │
+  └─────────┘    └─────────┘    └─────────┘
+```
+
+**The hub is complete by itself.** You can write, validate, and export without any plugins. But if you want more — specialized workflows, enhanced skills, professional tools — plugins extend the foundation.
+
+---
+
+## Creating Your Own Plugins
+
+Anyone can extend WTFB. The architecture is open.
+
+### Free Plugins (Contribute to Community)
+
+1. Fork this template or create a new plugin repo
+2. Add skills/commands following the [Capability Contract](docs/guides/CAPABILITY_CONTRACT.md)
+3. Submit PR or publish independently
+4. Community benefits, you get credit
+
+### Paid Plugins (Marketplace)
+
+1. Follow the same capability contract
+2. Add premium features (enhanced skills, workflows)
+3. Submit to [WTFB Marketplace](https://github.com/bybren-llc/wtfb-claude-marketplace) for review
+4. Earn revenue from your expertise
+
+### WTFB's Own Plugins (Leading by Example)
+
+We practice what we preach:
+
+| Plugin | What It Adds |
+|--------|--------------|
+| `wtfb-screenwriting` | Our proprietary WTFB methodology, showrunner workflows |
+| `wtfb-novel-writing` | Extended narrative tools, chapter pacing |
+| `wtfb-film-production` | Call sheets, scheduling, budget tracking |
+
+These demonstrate how to build premium enhancements that don't duplicate the base — they extend it.
+
+**Technical Details:** See [Plugin Architecture](docs/guides/PLUGIN_ARCHITECTURE.md) and [Capability Contract](docs/guides/CAPABILITY_CONTRACT.md).
+
+---
+
+## Join the WTFB Community
+
+```
+Use the Tools → Join Community → Take Courses → Get Published → Launch IRL
+      ↓              ↓              ↓              ↓              ↓
+  Write more    Get feedback   Master craft   WTFB publishes   Film/TV
+  Write better  Find collaborators  Network    Promotes you    Distribution
+```
+
+We're building more than tools. We're building a path from idea to screen:
+
+- **Use the tools** — Write more, write better
+- **Join the community** — Get feedback, find collaborators
+- **Take our courses** — Master the WTFB methodology
+- **Get published** — Submit your work for WTFB consideration
+- **Launch IRL** — From page to screen, we help make it real
+
+**Website**: [wordstofilmby.com](https://wordstofilmby.com)
+
+---
+
+## Documentation
+
+| Document | Purpose |
+|----------|---------|
+| [docs/QUICKSTART.md](docs/QUICKSTART.md) | Step-by-step setup guide |
+| [AGENTS.md](AGENTS.md) | Complete agent team reference |
+| [docs/REFERENCE.md](docs/REFERENCE.md) | Commands, patterns, structure |
+| [docs/WORKFLOW.md](docs/WORKFLOW.md) | Git workflow guide |
+| [docs/WTFB-HARNESS-PAPER.md](docs/WTFB-HARNESS-PAPER.md) | Architecture deep-dive |
+| [docs/COMPETITIVE-ANALYSIS-MULTI-AGENT-HARNESS.md](docs/COMPETITIVE-ANALYSIS-MULTI-AGENT-HARNESS.md) | Market analysis & positioning |
+
+### Plugin Development Guides
+
+| Guide | Purpose |
+|-------|---------|
+| [docs/guides/CAPABILITY_CONTRACT.md](docs/guides/CAPABILITY_CONTRACT.md) | Technical spec for plugin authors |
+| [docs/guides/PLUGIN_ARCHITECTURE.md](docs/guides/PLUGIN_ARCHITECTURE.md) | How plugins extend the template |
+| [docs/guides/USER_ACCESS_TIERS.md](docs/guides/USER_ACCESS_TIERS.md) | Access levels (Community, Pro, Internal) |
+| [docs/guides/TEMPLATE_MARKETPLACE_RELATIONSHIP.md](docs/guides/TEMPLATE_MARKETPLACE_RELATIONSHIP.md) | Ecosystem overview |
+
+---
+
+## Example Projects
+
+| Project | Description |
+|---------|-------------|
+| [seoul-identity](https://github.com/bybren-llc/seoul-identity) | Feature screenplay using full harness |
+
+---
+
+## Contributing
+
+We welcome contributions. See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
+
+---
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
+## Attribution
+
+This project is the **Words To Film By™** multi-agent harness.
+
+**Creator**: J. Scott Graham ([@cheddarfox](https://github.com/cheddarfox)) - [jscottgraham.us](https://jscottgraham.us)
+**Organization**: [Bybren LLC](https://github.com/bybren-llc)
+**Enterprise**: [Words To Film By™](https://wordstofilmby.com)
+
+If you use this harness in your own projects, you must include attribution.
+See [NOTICE](NOTICE) for details.
+
+---
+
+<p align="center">
+  <strong>Words To Film By™</strong><br>
+  <a href="https://wordstofilmby.com">Website</a> •
+  <a href="mailto:scott@wordstofilmby.com">Contact</a> •
+  <a href="https://github.com/sponsors/bybren-llc">Sponsor</a>
+</p>
+
+<p align="center">
+  <em>"Your creative AI team, ready to work."</em>
+</p>
