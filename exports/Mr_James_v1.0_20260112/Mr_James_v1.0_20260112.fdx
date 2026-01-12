@@ -1,0 +1,3520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="1">
+
+  <Content>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STORAGE FACILITY - CLEVELAND - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fluorescent lights buzz over a crowd of BARGAIN HUNTERS. A strip mall in decay. American flags faded to pink.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>AUCTIONEER (50s, seen it all) works through units. Mattresses. Christmas decorations. The detritus of lives interrupted.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Three people stand apart from the crowd, not together, not quite strangers:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>MARCUS CHEN (30), in hospital scrubs, checks his phone obsessively. Dark circles under his eyes. A man who hasn't stopped moving in years.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>DELIA SANTIAGO (30), hides behind oversized sunglasses. Comedy club t-shirt, rumpled. She's here but doesn't want to be seen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>TERRENCE WILLIAMS (30), rigid posture, worn army jacket. Eyes scanning constantly. Assessing threats that aren't there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>None of them acknowledge each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AUCTIONEER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Unit forty-seven. Last unit of the day. No minimum.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The rolling door RISES.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Inside: a child's treasure trove frozen in time. Hand-painted wooden sign reads "THE SANCTUARY." Moth-eaten costumes. A dented telescope. Leather journals. A tarnished compass.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>All three FREEZE. Recognition floods their faces.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus's phone slips in his hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia removes her sunglasses.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence stops breathing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Twenty years since they've seen these things. Twenty years since they've seen each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The auctioneer doesn't notice the shift.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AUCTIONEER (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do I have fifty? Fifty dollars for the lot?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VOICE (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stop.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The crowd parts. MRS. PATTERSON (80s), elegant despite age, pushes through. She's BLACK, dignified, carrying a lifetime of stories.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She spots the three adults. Stops. Studies them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS. PATTERSON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Marcus. Delia. Terrence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They don't respond. Can't.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS. PATTERSON (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>James always said you three would find your way back when the work needed doing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She produces a yellowed ENVELOPE from her purse.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS. PATTERSON (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He left this for you. Said the compass would know.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She presses the envelope into Marcus's resistant hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS. PATTERSON (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He also said--and I never understood this--"Watch out for minos. The labyrinth is always of your own making."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns, walks away without looking back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The three finally look at each other. Twenty years of silence weighs between them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(barely audible)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Delia.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mars.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(a nod)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Chen. Santiago.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The auctioneer waits.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AUCTIONEER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So... do I have fifty?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(finding his voice)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Five hundred. For all of it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What? Marcus--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I said five hundred.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The gavel falls.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. STORAGE FACILITY - PARKING LOT - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The three stand by Marcus's sensible Honda. The ENVELOPE sits on the hood between them. Nobody touches it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So. Twenty years.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Twenty-one.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You're counting?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I count everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Delia)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You look... different.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I look old.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's not what I--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Relax, Mars. It's fine. We all look old. Because we are.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The funeral. That was the last time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We didn't talk then either.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>More silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus picks up the envelope. Turns it over. Mr. James's handwriting: "WHEN THE TIME COMES."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'm not opening this here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then where?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus looks at both of them. A decision forming.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There's a diner. Off Lorain. Used to be good.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It's still there?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Everything's still there. It just looks different.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. DELIA'S APARTMENT - BROOKLYN - NIGHT - FLASHBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SUPER: "THREE DAYS EARLIER"</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A cramped studio. Boxes everywhere. DELIA paces, phone to ear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know I owe you, but I'm good for it. Next month. I swear. My agent says--</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She listens. Closes her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah. Okay. Thanks for nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She hangs up. Looks around the apartment--bare walls, empty fridge visible through the kitchen doorway.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>On her nightstand: a COMPASS. Old, tarnished. A single PHOTO tucked behind it--a man with kind eyes (her father, RAFAEL).</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her laptop open to a job site. "FUNERAL HOME RECEPTIONIST - MUST BE COMFORTABLE WITH DEATH."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Story of my life.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her phone BUZZES. Unknown number. Cleveland area code.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She ignores it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>It buzzes again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>And again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(answering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If this is about my student loans, I'm already dead.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS. PATTERSON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is this Delia Santiago?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia sits up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who is this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS. PATTERSON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My name is Evelyn Patterson. My brother was James Washington.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat. Delia's entire body changes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mr. James.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS. PATTERSON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There's a storage auction. Cleveland. Saturday. Unit forty-seven. He wanted you there.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He's been dead for five years.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS. PATTERSON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He planned ahead.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Click. The line goes dead.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia stares at her phone. Then at the compass.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Then she starts to pack.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. MARCUS'S APARTMENT - ATLANTA - NIGHT - FLASHBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Sterile. Organized. A place that's clean because no one lives in it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>MARCUS sits at a desk, laptop open, spreadsheets glowing. His phone has SIX missed calls. A COWORKER's name.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He ignores them. Opens another spreadsheet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His hands are shaking slightly. He doesn't notice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COWORKER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(from phone speaker)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Marcus, it's Linda again. Dr. Patel says if you don't take the leave, they're making it mandatory. You collapsed, Marcus. In the middle of the ER. Pick up your phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus deletes the voicemail. Opens another spreadsheet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His phone BUZZES. Unknown number. Cleveland.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(answering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Marcus Chen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS. PATTERSON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mr. Chen. I believe you knew my brother.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus's pen stops moving.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. TERRENCE'S APARTMENT - WASHINGTON D.C. - NIGHT - FLASHBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Bare. A mattress on the floor. Weights in the corner. Nothing personal except--</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A PURPLE HEART in a drawer, hidden beneath socks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>TERRENCE does push-ups. 50. 60. 70. His form is perfect. His face shows nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A phone RINGS. He ignores it, keeps counting.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>80. 90. 100.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The phone keeps ringing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stops. Breathing controlled. Looks at the phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Cleveland area code.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He doesn't answer, but he doesn't look away either.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. DINER - CLEVELAND - DAY - PRESENT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Vinyl booths. Coffee that's been warming since morning. The kind of place that's survived by not changing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The three sit in a booth. The envelope in the center of the table like a bomb.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A WAITRESS (60s, NAME TAG: GLORIA) approaches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLORIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You three need menus or you know what you want?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just coffee.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Make it Irish.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gloria raises an eyebrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Kidding. Coffee's fine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gloria leaves. They stare at the envelope.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So someone's going to open it, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'm thinking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What's there to think about?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He's been dead five years, Terrence. This is... orchestrated. He set this up before he died.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's very Mr. James.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Open it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus hesitates. Then picks up the envelope. Slides his finger under the seal.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Inside: A HAND-DRAWN MAP. A KEY (old, brass). A LETTER.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus unfolds the letter. Mr. James's handwriting, shaky but clear:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(reading)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"My dear children. If you're reading this, then Evelyn has done her part, and so has time. Twenty years is long enough to run. Twenty years is long enough to hide."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He pauses. Looks at the others. Continues.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"The Sanctuary is not a place. It never was. You three ARE the Sanctuary now. But first, you must remember what you forgot. The map shows the way. The key opens what fear has locked."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(quiet)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What the hell does that mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(reading)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"Start where we started. -J"</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He sets down the letter. Unfolds the map.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Cleveland--but transformed. Landmarks renamed: "THE DRAGON'S GATE" over an old bridge. "THE WHISPERING ARCHIVE" over the library. "THE KEEPER'S GARDEN" over a cemetery.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>An X marks a location across the river. Where the old recreation center stood.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The rec center.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's where we met him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It's been abandoned for years.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus's phone RINGS. He looks at it. "GRADY MEMORIAL - EMERGENCY."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have to take this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seriously?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He's already answering, sliding out of the booth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Chen here. What's the situation?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia watches him go. Shakes her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Twenty years. And he's still--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The same? Yeah. So are you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What's that supposed to mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You made four jokes in the last ten minutes. None of them were funny.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wow. Military life really softened you up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(ignoring her)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The map. Look at it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She does. Really looks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>These are... these are places he took us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Quest stops.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>God, we called them that. Quest stops. Like we were in a video game.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The bridge at midnight. The library. The cemetery where his family--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(cutting him off)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I remember.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus returns. His face is tight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have to go back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course you do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There's a situation. A patient I was--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There's always a situation, Marcus. There's always a patient or a crisis or something more important than--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Than what? A scavenger hunt from a dead man?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Than US.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>That lands. Marcus has no response.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(standing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let him go.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Terrence--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He's not ready. Maybe he won't be. That's his choice.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus looks at Terrence. Something passes between them--not understanding, but recognition.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Keep the map. And the key.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He pulls out his wallet, drops cash on the table.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'll... I'll call you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He leaves. Delia and Terrence sit in silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He won't call.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what do we do?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence picks up the map. Studies it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We start where we started.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== FLASHBACK: THE FIRST SUMMER ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. RECREATION CENTER - CLEVELAND - DAY - 1999</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SUPER: "SUMMER, 1999"</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The building was alive once. Now it's just surviving. Paint peeling, but clean. A hand-painted sign: "MR. JAMES'S SUMMER PROGRAM - ALL WELCOME."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Twenty CHILDREN between ages 8-12 gather on a worn basketball court. Some from the neighborhood, some dropped off by desperate parents, all wearing the armor of kids who've learned the world doesn't care about them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Among them:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>YOUNG MARCUS (10), small for his age but carrying himself like he's older. He's organizing the younger kids into a line without being asked.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>YOUNG DELIA (10), tall and gangly, pockets full of random objects--bottle caps, a marble, something shiny. She's talking to a younger kid, making them laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>YOUNG TERRENCE (10), already big, standing apart from the others. Watching. Evaluating.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>MR. JAMES WASHINGTON (67) enters.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He moves slowly--vitiligo patterns his dark skin like clouds, his hair is white as cotton--but his eyes hold galaxies. He wears work clothes, clean and pressed. A gold watch chain catches the light.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The children quiet. Not from fear. From something else.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(his voice carries without shouting)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good morning.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHILDREN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(scattered)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good morning, Mr. James.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have a question. A serious one. I want honest answers.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He scans the faces. Young Marcus straightens. Young Delia clutches her treasures. Young Terrence crosses his arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who here believes in magic?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Some hands go up--the younger kids, the ones who haven't learned better yet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Marcus's hand stays down.
+</Text>
+      <Text>Young Delia's stays down.
+</Text>
+      <Text>Young Terrence scoffs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mr. James smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good. The ones who don't believe are usually the ones who need it most.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He pulls something from his pocket. A COMPASS, tarnished but beautiful.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This compass is old. Older than me, which is saying something.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Small laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It doesn't point north. It points toward what you need to find.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He holds it up. The needle spins lazily, then settles--pointing directly at Young Marcus, Young Delia, and Young Terrence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But here's the secret--</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He kneels, bringing himself to their level.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What you need to find is usually inside the thing you're most afraid of.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Marcus looks at his feet.
+</Text>
+      <Text>Young Delia stops fidgeting.
+</Text>
+      <Text>Young Terrence uncrosses his arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Something begins.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. RECREATION CENTER - LATER - 1999</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The kids break into groups. Activities, games, snacks. Normal summer program stuff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>But in the corner, Mr. James has gathered three specific children. Young Marcus. Young Delia. Young Terrence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You three. Do you know why I brought you together?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(defensive)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We didn't do anything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, you didn't. That's not why.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are we in trouble?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The opposite.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He studies them. Really sees them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Marcus. Your grandmother says you've been taking care of your sister all summer while your mother works.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(uncomfortable)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone has to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How old is your sister?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seven.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And you're ten.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Marcus shrugs. This is just how life works.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Delia. Your mother tells me you've been collecting things. Small things. Pretty things.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Delia's hand goes to her pocket.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They're not stolen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know they're not. When did you start collecting?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Delia looks away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>After.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>After your father passed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She nods. Mr. James's face softens with recognition.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And Terrence. Your father's overseas again?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He's always overseas.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You've moved four times in three years.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Five.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What's the longest you've had a friend?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Terrence doesn't answer. Because the answer is: not long enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mr. James looks at all three of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'm going to tell you something, and I want you to really hear it. Can you do that?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They nod.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You three have something in common. You've all learned to protect yourselves. Marcus by being useful. Delia by collecting beautiful things. Terrence by not getting attached.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Each child's face registers recognition. Being seen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Those are smart strategies. The world is hard, and you found ways to survive it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But survival isn't the same as living. And the things that protected you when you were small can become prisons when you're grown.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't understand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You will.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He pulls out the compass again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This summer, I'm going to teach you something. Not school things. Not useful things. Something important.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How to escape the labyrinths you build around yourselves. Before you forget there's a world outside.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tomorrow. We start.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He walks away, leaving three confused children looking at each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He's weird.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I like him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They all smile. First connection forming.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== END FLASHBACK ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. ABANDONED RECREATION CENTER - NIGHT - PRESENT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The building is a ghost. Windows boarded, graffiti faded, chain-link fence bent but standing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia and Terrence approach from the parking lot. The city hums behind them, indifferent.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Twenty years.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Twenty-one.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You said that already.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence doesn't respond. He's looking at the building like it's a battlefield.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His honesty surprises her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I haven't been okay in a long time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(trying to joke)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Welcome to the club. We have jackets.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>It doesn't land. She knows it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry. I do that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They reach the fence. A section is cut--someone's been here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's maintaining access.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Or squatters.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The cut is clean. Recent. And look--</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He points. The lock on the main door isn't rusted.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The key.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pulls it out. They exchange a look, then slip through the fence.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. ABANDONED RECREATION CENTER - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They push open the door. Darkness.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence produces a flashlight from his pocket.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You just carry a flashlight?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You don't?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He sweeps the beam across the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The basketball court, warped and dusty. Old banners hanging torn. Debris in corners.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>But also--</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Candles. Dozens of them, recently burned, wax pooled beneath.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fresh flowers in a corner, wilting but not dead.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>And on the wall, in fresh paint that catches the light:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>"THE WORK CONTINUES. REMEMBER."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia's breath catches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's been here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's BEEN here. Regularly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They move deeper into the space. Their footsteps echo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>And then--</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Carved into the wooden paneling near the old stage:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>MARCUS. DELIA. TERRENCE.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Their names. From twenty years ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(touching the letters)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I forgot we did this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I didn't.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His voice is strange. Thick.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Terrence?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I dreamed about this place. For years. After I got out, after... I dreamed about standing right here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She's never heard him talk like this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is the last place I remember being... me. Before my father shipped us away. Before everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A sound. Footsteps.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Both spin. Terrence's body shifts, ready for threat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A FIGURE emerges from the shadows.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>HOPE WASHINGTON (28), Black, natural hair, intelligent eyes that hold both suspicion and hope. She carries herself like someone who's always prepared to be disappointed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You're here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I wondered if you'd come.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who are you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hope Washington. James Washington was my great-uncle.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She steps into the light fully. Young, but carrying old weight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He talked about you three constantly. Said you were his greatest success.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She looks at the carved names.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And his greatest failure.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. ABANDONED RECREATION CENTER - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hope leads them to what was once Mr. James's office. It's been transformed into a kind of shrine.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Photographs on the walls--decades of children who came through the program. Articles about the neighborhood. A map that matches the one in the envelope.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>And in the center: MR. JAMES'S JOURNAL. Leather-bound, worn with use.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I found this after he died. There are entries going back forty years.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She hands the journal to Delia, who opens it reverently.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Delia reading)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"Summer, 1976. The first year. I don't know if this will work. I don't know if I have anything to offer these children except my own scars. But I have to try. Delilah would want me to try."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Delilah?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>His wife. She died in '72, along with their daughter. House fire.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The weight of that settles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He spent three years in a hospital after. Then he started this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She gestures to the room, the building, all of it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thirty years. Thousands of children. He transformed his grief into... this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why are you here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone had to be. He didn't have anyone else at the end. His sister--my grandmother's sister--she tried, but she has her own life. I was...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She trails off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was running from things too. He gave me somewhere to run to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He saved you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He saved a lot of people.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He said you'd come. He knew exactly when Aunt Evelyn should call. He planned all of this before he died.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The work isn't finished. That's what he said. And the three of you are the only ones who can finish it.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. DETROIT-SUPERIOR BRIDGE - MIDNIGHT - LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>"THE DRAGON'S GATE" on the map.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The old bridge spans the Cuyahoga River. Industrial ghosts on either side--steel mills, factories, monuments to what Cleveland used to be.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus is there. Surprise on Delia and Terrence's faces.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don't.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don't what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don't make a thing of it. I'm here. That's enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What changed your mind?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus is silent for a long moment. Then:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I passed out again. At work. In front of everyone. They put me on mandatory leave.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jesus, Marcus--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'm fine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You're not fine. None of us are fine.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The bridge stretches before them. Fog off the river.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The map says midnight. It's midnight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what are we looking for?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hope steps forward. She's been lingering behind.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She points. A section of the bridge's ironwork has a HIDDEN COMPARTMENT--invisible unless you know where to look.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Inside: three ENVELOPES. Names on each.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They take their own. Open them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>MARCUS'S ENVELOPE:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A PHOTOGRAPH. Young Marcus, maybe seven, crying. The day his father left. A note in Mr. James's handwriting: "You learned to carry everything alone that day. The dragon you fear is need. The treasure is letting someone else hold the weight."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>DELIA'S ENVELOPE:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A PRESSED FLOWER. From her mother's funeral. A note: "You learned to run that day. The dragon you fear is stillness. The treasure is being present for the pain."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>TERRENCE'S ENVELOPE:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>DOG TAGS. His father's. A note: "You learned to lock away that day. The dragon you fear is feeling. The treasure is letting the wall come down."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They stand in silence. The river moves beneath them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(finally)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He knew. He knew exactly what was wrong with each of us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He always knew.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(staring at the dog tags)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How did he get these?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He kept in touch with your father. Until the end.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(sharp)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My father doesn't keep in touch with anyone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your father wrote him letters. Every year. Asking about you. Mr. James never told you because...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She hesitates.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because your father asked him not to. He was ashamed. Of how he raised you. Of what he made you become.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence's face is unreadable. His hands are shaking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Hope)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What else is there? On the map?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Two more stops. The library. The cemetery.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't know. He said you'd know when you got there.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== FLASHBACK: THE DRAGON'S GATE ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. DETROIT-SUPERIOR BRIDGE - NIGHT - 1999</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SUPER: "SUMMER, 1999"</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Three children walk with Mr. James along the bridge. It's late--past when they should be out--but this is one of the "quest stops."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Marcus has been withdrawn all day. The others have noticed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This bridge is called the Detroit-Superior. But I call it something else.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you call it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The Dragon's Gate.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why? There's no dragons.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Aren't there?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stops at the center of the bridge. The city lights flicker below.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In the old stories, dragons guard treasure. Everyone wants to slay the dragon and take the gold. But here's what the stories get wrong.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He looks at Marcus. Really looks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sometimes the dragon IS the treasure. The thing we fear most is often the thing we need most.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That doesn't make sense.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Marcus looks away. Mr. James kneels to his level.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your father left. Three days ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Marcus's face crumbles, then hardens. Ten years old and already armoring.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't want to talk about it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know. That's the dragon, Marcus. Not your father. The silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you most afraid of right now?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Long pause. Young Delia and Young Terrence wait.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(barely audible)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That if I need people... they'll leave. Like he did.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you've decided never to need anyone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus doesn't answer. Because that's exactly what he's decided.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's not strength, Marcus. That's a cage.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He puts a hand on the boy's shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The bravest thing a person can do is ask for help. That's crossing the Dragon's Gate. Can you do that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't know.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's honest. Honest is a start.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someday, you'll need to ask. And these two will be there. Won't you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Delia takes Marcus's hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Obviously.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Terrence punches his shoulder gently.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We've got you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>For a moment, Young Marcus looks like he might cry. Then he smiles instead.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== END FLASHBACK ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. CLEVELAND PUBLIC LIBRARY - DAY - PRESENT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>"THE WHISPERING ARCHIVE."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The main branch. Cathedral ceilings. The smell of old books.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hope leads them to the AFRICAN AMERICAN HISTORY ARCHIVES. Restricted section.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I work here part-time. That's how I found the files.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pulls a BOX from the shelves. "JAMES WASHINGTON - PERSONAL PAPERS."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Inside: documents, photographs, newspaper clippings.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(reading a clipping)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"Local Activist Hospitalized After Breakdown." This is from 1973.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(another document)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"Washington, James. Patient records. Cleveland State Hospital. 1973-1975."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They look at each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He spent two years in a psychiatric hospital after his wife and daughter died. He never hid it, but he never talked about it either.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(a photograph)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is him. At a civil rights march.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The photo shows a younger Mr. James, intense and alive, marching alongside hundreds of others.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Before the fire, he was an organizer. After... he became something else.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(finding a journal entry)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Listen to this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She reads.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"I built my minos from grief. I fed it for three years. Then I found the thread: purpose. Helping others was how I helped myself. The work is not IN SPITE of the wound. The work IS the wound, transformed."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>His labyrinth was grief. And he spent thirty years helping kids escape theirs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>While still carrying his own.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did he ever escape?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't know. I don't think he thought of it that way. I think he thought the labyrinth was... home. Once you learn to navigate it, you can guide others through.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pulls out another document. A MAP identical to theirs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He drew this map in 1976. The year he started the program. He's been planning this journey for fifty years.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== FLASHBACK: THE WHISPERING ARCHIVE ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. CLEVELAND PUBLIC LIBRARY - DAY - 1999</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SUPER: "SUMMER, 1999"</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Marcus, Young Delia, and Young Terrence sit at a table surrounded by BOOKS. Mr. James has given them their first "quest."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Research is magic.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's the nerdiest thing you've ever said.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(smiling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Perhaps. But consider: every book is a door. Every story is a life someone lived. When you read, you're not alone. You're connected to everyone who ever read these words.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He spreads his hands over the books.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Knowledge is the first weapon against the dark. The second is imagination. The third is community.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Young Delia hasn't been paying attention. She's staring at a book of MYTHOLOGY. Her finger rests on an illustration: the MINOTAUR in its labyrinth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(noticing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you know that story, Delia?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The minotaur. My dad used to... he used to read me the Greek myths.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat. Her father has been dead for six months.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why do sad things happen?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The other children go quiet. Mr. James's eyes go distant.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because the world is broken, Delia. And it stays broken unless people decide to fix it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can we fix it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(tears in his eyes, smiling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's the only question that matters.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== END FLASHBACK ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. LAKE VIEW CEMETERY - DAY - PRESENT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>"THE KEEPER'S GARDEN."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The final stop before whatever comes next.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They stand before three headstones:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>DELILAH WASHINGTON. 1940-1972. "Beloved Wife and Mother."
+</Text>
+      <Text>GRACE WASHINGTON. 1965-1972. "Our Little Light."
+</Text>
+      <Text>JAMES WASHINGTON. 1932-2014. "The Work Continues."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Buried together. A family reunited in death.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He spent forty years visiting them. Then going out to help other people's children.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's not strength. That's...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Transformation. It's transformation.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus is crying. He doesn't notice at first. Then he does--wipes his face roughly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(breaking)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He called me. Three weeks before he died. I didn't answer. I didn't call back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Marcus--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was too busy. Too important. He was dying and I was too busy to pick up the phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(quietly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was in Afghanistan when he died. They offered me leave. I didn't take it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was in rehab. I told the nurses not to give me any messages.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They stand in their separate grief. United by shame.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We abandoned him. The man who saved us. We left him to die alone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(from behind them)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He knew you would.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They turn.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He wrote about it. In the journal.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She opens to a marked page.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(reading)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"They won't come. Not in time. That's not their fault. The labyrinths I helped them build became too strong. They forgot there was a world outside."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He knew we wouldn't be there?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(continuing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"But they'll come back. When they're ready. When the walls start to crack. The work was never about me. It was about them finding their way back to themselves. And each other."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence takes the journal. Reads the final entries himself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(reading)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"I'm scared. I don't want to die alone. I called Marcus today. He didn't answer."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His voice breaks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"I understand. The work isn't done. It's never done."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Page turn.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"Forgive yourselves, children. I already have."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The cemetery is silent except for birdsong. Three adults, broken open at last.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. ABANDONED RECREATION CENTER - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They've returned. Sitting in the darkness. Not speaking.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hours pass. The city outside grows quiet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Finally:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My mother died asking for me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The others wait.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was in the hospital cafeteria. Getting coffee. I couldn't sit with her anymore. I couldn't watch her go.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So I wasn't there. She died calling my name, and I was getting coffee.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She laughs. It's not funny.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I've been running ever since. Making jokes so no one asks why I'm sad. Moving so fast the grief can't catch me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It caught me anyway. It always does.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(finally)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There was this kid in my unit. Rodriguez. He asked me to talk the night before a patrol. Said he had a bad feeling. I told him to shake it off.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stares at nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He was dead by noon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Terrence...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't cry. I don't feel. That's what keeps you alive over there. But Rodriguez... he was twenty-two. He just wanted someone to listen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His voice is barely above a whisper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I've spent six years not feeling anything because if I start, I don't know if I can stop.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(long pause)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My grandmother raised me. After my mom fell apart. After my father left. She worked three jobs to keep me fed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He takes a shaky breath.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She got sick last year. I visited twice. Twice. Because I was "too busy." She died in a nursing home surrounded by strangers. Because her grandson was too important to be there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The darkness holds them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I've spent my whole life helping other people so I don't have to look at my own shit. And the one person who actually needed me...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He can't finish.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(quietly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So we're all running. From the same thing. From being present for the people we love.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For the people we failed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For ourselves.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They sit with that. The labyrinth laid bare.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== FLASHBACK: THE THREAD ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. RECREATION CENTER - DAY - 1999</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SUPER: "LAST DAY OF SUMMER, 1999"</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The program is ending. Children saying goodbye. Parents picking up kids.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>But in the corner, Mr. James has gathered his three.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Summer ends. Magic fades. That's what people believe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He pulls out three objects:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The COMPASS (to Terrence).
+</Text>
+      <Text>A small MIRROR (to Delia).
+</Text>
+      <Text>A worn book of GREEK MYTHS (to Marcus).</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The compass points toward what you need. The mirror shows what's really there--not what you fear. The book reminds you that these stories are old, and people have survived them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>YOUNG MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Will we see you again?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You'll see me every time you choose wonder over fear. Every time you reach out instead of pulling in. Every time you hold the thread for someone lost in the dark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He hugs each of them. Holds on a moment too long.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The work isn't magic. The work IS magic. Do you understand?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They nod. They don't understand. Not yet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(softly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You will.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== END FLASHBACK ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. ABANDONED RECREATION CENTER - DAWN - PRESENT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Light seeps through the boarded windows. A new day.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They've been there all night. Exhausted. Emptied. Changed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus stands. Looks at the others.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He forgave us. In the journal. Before we even knew we needed forgiving.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's not the same as forgiving ourselves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. It's not.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But it's a start.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He does something radical. Something that costs him everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can't do this alone. I've never been able to. I need you both.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia stares at him. Twenty years and she's never heard him say those words.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(taking his hand)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence takes his other hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We've got you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The thread, reconnected.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The final location. It isn't on the map.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because it isn't a place.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It's what we do now. With what he gave us.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They stand in a circle. The compass between them. The mirror. The book.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(from the doorway)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what do you do now?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus looks at the others. They nod.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The work continues.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. COFFEE SHOP - CLEVELAND - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hope, Marcus, Delia, and Terrence around a table. The journal open between them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He left the Sanctuary to you three in his will. The property, the building, everything. It's been in legal limbo because no one claimed it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We can claim it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If you want. But there's a problem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pulls out official documents.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The city wants to demolish it. Urban development. The building's condemned.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They can't just demolish it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They can. There's a city council vote in two weeks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then we fight it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How? We're three people. Against city hall.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(studying him)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You're three people who know a lot of other people. Mr. James helped hundreds of kids over thirty years. Where are they now?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>That lands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We find them. The other Sanctuary kids.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And we ask them to help.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(struggling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't... I don't know how to ask for help.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You just did. Ten minutes ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOPE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's the whole thing, isn't it? The work isn't about being strong enough to do it alone. It's about being brave enough to do it together.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus looks at the journal. At his friends. At Hope.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay. Let's get to work.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== MONTAGE: GATHERING THE TEAM ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. HOSPITAL - CONFERENCE ROOM - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus at his laptop, sending messages. Hundreds of them. To every former Sanctuary kid he can find.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Each message ends the same way: "We need your help."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Each send is a small death of his old self. Each response is a resurrection.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. COMEDY CLUB - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia on stage. But this time, no jokes. She tells the truth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into mic)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'm supposed to be funny. That's my thing. Make them laugh so they don't see you cry.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The crowd is quiet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There was this man. Mr. James. He ran a summer program for kids who had nowhere else to go. Kids like me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He taught us that the thing you're most afraid of is usually the thing you need most. I was afraid of being sad. So I made everyone laugh instead.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A tear on her cheek.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He died alone. Because I was too scared to be there. And I've been running from that ever since.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She takes a breath.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'm done running. There's a place that matters. A building that saved my life. And it's about to be torn down. If you've ever felt lost, if you've ever needed someone to hold a thread for you in the dark...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She looks directly at the audience.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We could use your help.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Silence. Then applause. Then people standing.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. VA CENTER - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence in a group session. But instead of sitting silently, he speaks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My name is Terrence. I served two tours. I lost three members of my team. And I haven't let myself feel anything about it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He looks around at the other veterans.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'm trying to change that. And I need your help.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>For the first time, he lets himself be vulnerable. And the walls don't fall. The room holds him.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== END MONTAGE ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. CITY COUNCIL CHAMBERS - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The room is PACKED. Standing room only.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the front table: COUNCIL MEMBERS, looking overwhelmed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In the audience: HUNDREDS of former Sanctuary kids. Now adults. Teachers, doctors, social workers, parents, artists. All shaped by Mr. James.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus, Delia, and Terrence sit together. Hope beside them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COUNCIL CHAIR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The matter before us is the disposition of the property at 4215 Clark Avenue. The building has been condemned and is slated for demolition under the Urban Renewal Initiative.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He looks at the crowd.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COUNCIL CHAIR (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I understand there are... stakeholders who wish to speak.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>One by one, people stand. They tell their stories.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A TEACHER talks about how Mr. James taught her to believe in herself when no one else did.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A FIREFIGHTER tells how the Sanctuary gave him purpose after his father's death.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A YOUNG MOTHER shares how Mr. James's lessons helped her break a cycle of abuse.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The council listens. Their faces shift.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>But it's not enough. You can see it. Sentiment versus economics. The city needs revenue.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COUNCIL CHAIR (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you all for your... testimony. But the financial realities--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(standing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>May I?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The room turns.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus walks to the podium. His hands are shaking. He lets them shake.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My name is Marcus Chen. And James Washington saved my life.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He takes a breath.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>When I was ten, my father left. My mother worked three jobs. My grandmother raised me. I learned that the only person I could depend on was myself.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mr. James taught me different. He said the bravest thing a person can do is ask for help. I didn't believe him then. I'm not sure I believed him until a week ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He looks at Delia and Terrence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He died alone. Because I was too proud to answer a phone call. I will carry that for the rest of my life.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His voice breaks. He lets it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But he wouldn't want me to carry it alone. He'd want me to transform it. That's what he taught us. The wound becomes the work.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COUNCIL MEMBER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mr. Chen, the building is structurally unsound--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then we rebuild it. We're not asking for money. We're not asking you to believe in magic.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He straightens.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We're asking you to believe in work. In purpose. In the possibility that broken people can become whole by helping others become whole.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The room is silent.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Every person in this room was one of his kids. Every person in this room is living proof that what happened in that building matters.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He turns to the crowd.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We're not here to ask. We're here to tell you. The Sanctuary will survive. Whether you help us or not. But it would be a lot easier if you did.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia stands next to him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The work continues.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence stands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>With or without you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Then Hope. Then, one by one, everyone in the room. Hundreds of people.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ALL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The work continues.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The council members look at each other. The vote is obvious now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COUNCIL CHAIR</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(moved despite himself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>All in favor of preserving the property and granting historical landmark status...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Every hand rises.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COUNCIL CHAIR (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The motion carries. Unanimously.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The room erupts.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== EPILOGUE: SIX MONTHS LATER ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. THE SANCTUARY - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The building is transformed. Fresh paint. New windows. A garden out front.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A banner: "THE SANCTUARY - SUMMER PROGRAM 2020"</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Children stream through the doors. New children. Same need.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. THE SANCTUARY - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus in an office, surrounded by volunteers, coordinating schedules. On his desk: the BOOK OF GREEK MYTHS.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Delia in a circle of kids, teaching creative expression. She's funny, but real now. On her desk: the MIRROR.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Terrence leading kids in outdoor activities. Still disciplined, but warm now. Around his neck: the COMPASS.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hope coordinates between all of them. The bridge to the future.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. THE SANCTUARY - MAIN HALL - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The first day of the new program.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Children gather. Nervous. Skeptical. Armored the way kids from hard places always are.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus, Delia, and Terrence stand before them. Exactly where Mr. James stood twenty years ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus kneels. Bringing himself to their level.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good morning.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHILDREN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(scattered)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good morning.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have a question. A serious one. I want honest answers.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The children wait.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who here believes in magic?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Some hands go up. Most don't.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Marcus smiles. The same smile Mr. James had.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good. The ones who don't believe are usually the ones who need it most.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He produces the COMPASS. Old, tarnished, beautiful.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This compass is old. It doesn't point north. It points toward what you need to find.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The needle spins. Settles. Points at the children.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Magic isn't tricks. Magic is seeing what's really there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He looks at each small face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And I see... extraordinary things.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The children lean in. Skepticism giving way to something else. Wonder.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>WIDE SHOT of the room. The banner on the wall: "THE WORK CONTINUES."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>And below it, in smaller letters:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>"WATCH OUT FOR MINOS."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== FLASHBACK: THE PASSING ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. RECREATION CENTER - 1999</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mr. James alone after the children have gone. He sits at his desk. Writes in his journal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Three children came to me this summer carrying labyrinths bigger than themselves. They didn't leave with answers. They left with questions.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He looks up. Smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (V.O.) (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's better. Answers close doors. Questions open them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He closes the journal. Looks around the room. At the names carved in wood. At the future.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (V.O.) (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't know if they'll remember. I don't know if it will matter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stands. Walks to the window. Looks out at the city.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (V.O.) (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But today, for a moment, they saw the magic. They held the thread. They chose wonder.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He turns. Looks directly at us. Through time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(spoken, to us, to them, to everyone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>When you're ready, you'll know what to do. And when you do it, I'll be there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. JAMES (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The work continues.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He smiles. The smile of a man who has transformed his grief into gardens.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>== END FLASHBACK ==</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. THE SANCTUARY - MAGIC HOUR</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sun sets over Cleveland. The building glows.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Through the windows, we see children learning, laughing, being seen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>On the front porch, Marcus, Delia, and Terrence sit together. The first time in twenty years they've been still in each other's presence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He'd like this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He'd say we're doing it wrong.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He'd be right.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They laugh. Real laughter. Connected.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what now?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We keep going. We find more buildings. More programs. More kids.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TERRENCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We build more threads.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DELIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We fight more dragons.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We remember what we forgot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Pause.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MARCUS (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That we're not alone. That we never were.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The compass sits between them. The needle spins. Settles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Points straight up. At the sky. At whatever comes next.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FADE TO BLACK.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>TITLE CARD: "In memory of every Mr. James. And every child who needed one."</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>THE END</Text>
+    </Paragraph>
+  </Content>
+</FinalDraft>
