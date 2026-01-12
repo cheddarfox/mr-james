@@ -1,381 +1,247 @@
-# WTFB Projects Template
+# Mr. James (2026)
 
 <p align="center">
-  <a href="https://deepwiki.com/bybren-llc/wtfb-projects-template">
-    <img src="https://img.shields.io/badge/DeepWiki-AI_Docs-blue?style=flat-square&logo=artificial-intelligence" alt="DeepWiki">
-  </a>
-  <a href="https://www.npmjs.com/package/@wtfb/cli">
-    <img src="https://img.shields.io/npm/v/@wtfb/cli?style=flat-square&logo=npm&label=@wtfb/cli" alt="npm">
-  </a>
-  <a href="https://github.com/bybren-llc/wtfb-projects-template/releases/latest">
-    <img src="https://img.shields.io/github/v/release/bybren-llc/wtfb-projects-template?include_prereleases&style=flat-square&color=blue" alt="Version">
-  </a>
-  <a href="https://github.com/bybren-llc/wtfb-projects-template/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/bybren-llc/wtfb-projects-template?style=flat-square" alt="License">
-  </a>
-  <a href="https://github.com/bybren-llc/wtfb-projects-template/actions/workflows/validate.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/bybren-llc/wtfb-projects-template/validate.yml?style=flat-square&label=validation" alt="Validation">
-  </a>
-  <a href="https://github.com/bybren-llc/wtfb-projects-template/stargazers">
-    <img src="https://img.shields.io/github/stars/bybren-llc/wtfb-projects-template?style=flat-square" alt="Stars">
-  </a>
+  <!-- TODO: Add hero image -->
+  <img src="source-materials/mr-james-hero.jpg" alt="Mr. James" width="600">
 </p>
 
-> **AI Agents:** For comprehensive documentation, visit [DeepWiki](https://deepwiki.com/bybren-llc/wtfb-projects-template)
+**Feature Film** | **Drama, Fantasy (Magical Realism)** | **1h 50min**
 
 ---
 
-## What if AI worked like a real creative team?
+## Storyline
 
-When you're making a movie, you don't ask one person to write the script, direct, handle the budget, design costumes, AND edit the final cut. You hire a team of specialists who each bring their expertise to the table.
+Three adults who shared magical childhood summers with a mysterious mentor reunite twenty years later for one final quest—only to discover the treasure was never the magic. It was each other.
 
-**That's exactly what we built for AI.**
+In a dying Rust Belt city, MARCUS, DELIA, and TERRENCE were once children from broken homes who found wonder at Mr. James's summer program. He taught them about labyrinths and minotaurs, about the dragons we fear and the treasures they guard. Then life happened. They grew up, grew apart, and forgot.
 
-Instead of asking one AI to do everything, we created a system where multiple AI specialists work together—each with their own job, their own expertise, and their own responsibilities.
+Now Mr. James is gone. But he left them a map, a key, and a mystery that will force them to face the very things they've spent twenty years running from: the permission to be vulnerable, to grieve, to ask for help.
 
----
-
-## The Problem
-
-When you ask ChatGPT or Claude to help write a screenplay, you get... fine results. But here's what's missing:
-
-- **No structure** — It doesn't know when to check formatting vs. when to focus on story
-- **No specialization** — It's a generalist pretending to be an expert
-- **No teamwork** — There's no one to catch mistakes or offer a different perspective
-- **No standards** — Every session starts from scratch
-
-It's like hiring one intern to do everything instead of building a real team.
+*"The magic was never the gift. It was the permission to believe you deserved one."*
 
 ---
 
-## The Solution: An 11-Person AI Team
+## Plot Summary
 
-This template gives you a complete creative team:
+At a storage auction in Cleveland, three strangers recognize the contents of Unit 47—childhood treasures from "The Sanctuary," Mr. James's summer program. Marcus Chen (healthcare admin who can't stop working), Delia Santiago (comedian running from grief), and Terrence Williams (soldier who won't let himself feel) haven't spoken in twenty years.
 
-| Team Member | What They Do |
-|-------------|--------------|
-| **Story Architect** | Makes sure your story structure works (can veto bad structural changes) |
-| **Dialogue Writer** | Gives each character a unique voice |
-| **Scene Writer** | Describes action and visuals |
-| **Continuity Editor** | Catches timeline mistakes and contradictions |
-| **Script Supervisor** | Ensures proper screenplay format (must approve before export) |
-| **Research Specialist** | Checks facts and accuracy |
-| **Story Analyst** | Scene-by-scene quality analysis |
-| **Standards Reviewer** | Industry best practices |
-| **Production Coordinator** | Handles exports and delivery |
-| **Session Manager** | Coordinates workflow |
-| **Scene Annotator** | Organizes notes and development |
+A letter from beyond the grave sends them on a quest through Cleveland's hidden landmarks: the Dragon's Gate bridge at midnight, the Whispering Archive library, the Keeper's Garden cemetery. At each stop, Mr. James left personal messages exposing the "dragons" each of them fears—and the treasures locked behind them.
 
-Each one knows their job. Each one has expertise. And they work together.
+Through intercut flashbacks to 1999, we see the magic of their childhood summers and the mentor who saw them when no one else did. In the present, they must confront why they abandoned him, why they abandoned each other, and whether the wonder they once shared was real—or something they simply outgrew.
+
+The answer saves a building. But more importantly, it saves three people who finally learn to hold the thread for each other.
 
 ---
 
-## How It Works
+## Cast
 
-### Like a Hollywood Writers' Room
-
-In Hollywood, writers' rooms have structure:
-
-1. **The showrunner** has final say on story direction
-2. **Senior writers** can push back on bad ideas
-3. **Staff writers** pitch and draft scenes
-4. **The script coordinator** makes sure everything's formatted right
-
-Our AI team works the same way.
-
-### Some Team Members Can Say "Stop"
-
-Not everyone on the team is equal. Some have special authority:
-
-- **The Story Architect** can veto changes that break the story structure
-- **The Script Supervisor** must approve formatting before anything is final
-
-This prevents the AI from making mistakes that would slip through a single-AI system.
-
-### They Share Knowledge
-
-All team members have access to:
-
-- **Industry patterns** — How professional screenplays are structured
-- **Best practices** — What works in dialogue, scene construction, etc.
-- **Your project history** — What's happened so far in your story
-
-They're not starting from zero. They know the craft.
+| Character | Description |
+|-----------|-------------|
+| **Marcus Chen** | 30. Healthcare administrator from Atlanta. Compulsive caretaker who learned at age 8 never to need anyone. His dragon: asking for help. |
+| **Delia Santiago** | 30. Stand-up comedian from Brooklyn. Uses humor as armor against the grief she's been running from since her father died. Her dragon: stillness. |
+| **Terrence Williams** | 30. Defense contractor from D.C., former Army Captain. Locked away every feeling after his father taught him emotion equals weakness. His dragon: vulnerability. |
+| **Mr. James Washington** | 67 (1999). The mentor. Lost his wife and daughter in a fire, spent two years in a hospital, then transformed his grief into thirty years of helping children. |
+| **Hope Washington** | 28. Mr. James's grandniece. Maintains The Sanctuary and serves as bridge between past and present. |
+| **Mrs. Patterson** | 80s. Mr. James's sister. Delivers the catalyst letter. |
+| **Young Marcus** | 10 (1999). Small for his age, already carrying adult responsibilities. |
+| **Young Delia** | 10 (1999). Tall and gangly, pockets full of treasures, six months after losing her father. |
+| **Young Terrence** | 10 (1999). Already big, already guarded, always evaluating threats. |
 
 ---
 
-## Works With Multiple AI Platforms
+## Crew
 
-We're not locked to one AI:
-
-| Platform | Status |
-|----------|--------|
-| **Claude Code** (Anthropic) | Full support |
-| **Gemini CLI** (Google) | Full support |
-| **OpenAI Codex** | Documented |
-
-Same team structure. Different AI underneath.
+| Role | Name |
+|------|------|
+| **Written by** | Bren Fowler |
+| **Story by** | Bren Fowler |
+| **Development** | WTFB Harness (Words To Film By) |
+| **Contact** | BrenTampa1@gmail.com |
 
 ---
 
-## Quick Start
+## Technical Specs
 
-> **New to WTFB?** See the full [QUICKSTART Guide](docs/QUICKSTART.md) for step-by-step instructions with screenshots and troubleshooting.
-
-### 1. Install Claude Code
-
-```bash
-npm install -g @anthropic-ai/claude-code
-claude auth  # Authenticate with your Anthropic API key
-```
-
-### 2. Create Your Project
-
-```bash
-# From GitHub template
-gh repo create my-screenplay --template bybren-llc/wtfb-projects-template --clone --public
-cd my-screenplay
-
-# Initialize (interactive prompts)
-./scripts/init-project.sh
-npm install
-```
-
-### 3. Install the AI Team Plugin
-
-```bash
-claude  # Start Claude Code in your project
-/plugin install wtfb-screenwriting@github.com/bybren-llc/wtfb-claude-marketplace/plugins/screenwriting
-```
-
-### 4. Start Writing
-
-```bash
-/start-scene Opening confrontation in the bar
-```
-
-Your AI team is now active. The Story Architect will ensure structure. The Dialogue Writer will refine voices. The Script Supervisor will catch formatting issues. They work together automatically.
+| Specification | Details |
+|---------------|---------|
+| **Runtime** | ~108-112 minutes |
+| **Pages** | ~110 |
+| **Aspect Ratio** | 1.85:1 (Suggested) |
+| **Color** | Color |
+| **Language** | English |
+| **Setting** | Cleveland, Ohio — 1999 and 2019 |
+| **Structure** | Memory Bridge (65% present / 35% flashback) |
 
 ---
 
-## What You Get
+## Soundtrack
 
-| Feature | Description |
-|---------|-------------|
-| **11 Specialized Agents** | Each with clear responsibilities and authority |
-| **30+ Commands** | `/new-scene`, `/check-format`, `/export-pdf`, and more |
-| **17 Craft Patterns** | Story structure, scene types, dialogue techniques |
-| **Validation Stack** | Fountain syntax, spelling, formatting checks |
-| **Industry Exports** | PDF, Final Draft (FDX), HTML |
-| **Template Sync** | Automatic weekly updates from upstream |
+<!-- TODO: Add soundtrack when created -->
+[![Listen on Suno](https://img.shields.io/badge/🎵_Original_Soundtrack-Coming_Soon-8B5CF6?style=for-the-badge)](#)
 
----
+*Original score to feature nostalgic Americana, gentle piano themes, and emotional strings.*
 
-## Why WTFB? (Competitive Analysis)
+| # | Track | Description |
+|---|-------|-------------|
+| 1 | The Sanctuary | Main theme — wonder and loss |
+| 2 | Unit 47 | Opening — recognition and memory |
+| 3 | The Dragon's Gate | Midnight bridge confrontation |
+| 4 | Summer of '99 | Flashback theme — childhood magic |
+| 5 | The Whispering Archive | Library discovery |
+| 6 | What We Forgot | Emotional climax |
+| 7 | The Work Continues | Epilogue — hope renewed |
 
-We did the research. Here's how WTFB compares to alternatives:
-
-| vs. Competition | WTFB Advantage |
-|-----------------|----------------|
-| **vs. Final Draft / Movie Magic** | They have no AI. We have 11 specialized agents. |
-| **vs. AI Writing Tools** | They're single AI. We're multi-agent with authority controls. |
-| **vs. CrewAI / AutoGen** | They're general-purpose. We have 24 craft skill modules. |
-| **vs. All of Them** | We're open source, extensible, and export to industry formats. |
-
-**Unique to WTFB:**
-
-- Tiered authority system (veto/gate powers)
-- Enterprise self-hosting with private workflows
-- Community marketplace for custom tools
-- Fountain format: open, portable, AI-friendly
-- VS Code Live Share for real-time collaboration
-
-> **Full Analysis:** [Competitive Analysis: WTFB Multi-Agent Harness](docs/COMPETITIVE-ANALYSIS-MULTI-AGENT-HARNESS.md)
+*Soundtrack placeholder — to be created with [Suno AI](https://suno.com)*
 
 ---
 
-## Global CLI
+## Genres
 
-Use our tools across any project:
-
-```bash
-npm install -g @wtfb/cli
-```
-
-```bash
-wtfb validate       # Validate Fountain, Markdown, spelling
-wtfb export-pdf     # Export to industry-standard PDF
-wtfb export-fdx     # Export to Final Draft XML
-wtfb export-html    # Export to HTML preview
-```
-
-See [@wtfb/cli on npm](https://www.npmjs.com/package/@wtfb/cli) for full documentation.
+- Drama
+- Fantasy (Magical Realism)
+- Coming-of-Age (Adult Reckoning)
+- Ensemble Character Study
 
 ---
 
-## Beyond Screenwriting
+## Themes
 
-The same pattern works for any field that needs expert collaboration:
-
-| Screenwriting | Software Development | Legal | Medical Research |
-|---------------|---------------------|-------|------------------|
-| Story Architect | System Architect | Senior Partner | Principal Investigator |
-| Dialogue Writer | Frontend Developer | Contract Specialist | Literature Reviewer |
-| Scene Writer | Backend Developer | Compliance Officer | Biostatistician |
-| Script Supervisor | QA Tester | Research Associate | Ethics Liaison |
-
-We've already built a [software development harness](https://github.com/bybren-llc/wtfb-claude-marketplace/tree/main/plugins/software-dev). The architecture is universal.
+- **The Inheritance of Belief**: True magic is the radical act of believing you are worthy of love
+- **Found Family**: The people who choose to hold our thread in the dark
+- **Transformation of Wounds**: The work isn't IN SPITE of the wound—the work IS the wound, transformed
+- **Permission**: To rest. To grieve. To feel. To ask for help.
+- **The Labyrinth**: The protective walls we build that become our prisons
 
 ---
 
-## The WTFB Ecosystem
+## Tagline
 
-WTFB uses a **hub-spoke architecture** that's infinitely extensible:
-
-- **Hub**: This template — complete 11-agent writing harness (free, OSS)
-- **Spokes**: Plugins that extend capabilities (free or paid)
-
-```
-              ┌──────────────────┐
-              │  wtfb-projects-  │
-              │    template      │
-              │   (The Hub)      │
-              │  11 agents       │
-              │  24 skills       │
-              │  30 commands     │
-              └────────┬─────────┘
-                       │
-       ┌───────────────┼───────────────┐
-       │               │               │
-       ▼               ▼               ▼
-  ┌─────────┐    ┌─────────┐    ┌─────────┐
-  │  Your   │    │  WTFB   │    │Community│
-  │ Plugin  │    │ Premium │    │ Plugins │
-  │ (Free)  │    │ (Paid)  │    │ (Free)  │
-  └─────────┘    └─────────┘    └─────────┘
-```
-
-**The hub is complete by itself.** You can write, validate, and export without any plugins. But if you want more — specialized workflows, enhanced skills, professional tools — plugins extend the foundation.
+*"The magic was never the gift. It was the permission to believe you deserved one."*
 
 ---
 
-## Creating Your Own Plugins
+## Keywords
 
-Anyone can extend WTFB. The architecture is open.
-
-### Free Plugins (Contribute to Community)
-
-1. Fork this template or create a new plugin repo
-2. Add skills/commands following the [Capability Contract](docs/guides/CAPABILITY_CONTRACT.md)
-3. Submit PR or publish independently
-4. Community benefits, you get credit
-
-### Paid Plugins (Marketplace)
-
-1. Follow the same capability contract
-2. Add premium features (enhanced skills, workflows)
-3. Submit to [WTFB Marketplace](https://github.com/bybren-llc/wtfb-claude-marketplace) for review
-4. Earn revenue from your expertise
-
-### WTFB's Own Plugins (Leading by Example)
-
-We practice what we preach:
-
-| Plugin | What It Adds |
-|--------|--------------|
-| `wtfb-screenwriting` | Our proprietary WTFB methodology, showrunner workflows |
-| `wtfb-novel-writing` | Extended narrative tools, chapter pacing |
-| `wtfb-film-production` | Call sheets, scheduling, budget tracking |
-
-These demonstrate how to build premium enhancements that don't duplicate the base — they extend it.
-
-**Technical Details:** See [Plugin Architecture](docs/guides/PLUGIN_ARCHITECTURE.md) and [Capability Contract](docs/guides/CAPABILITY_CONTRACT.md).
+`magical realism` `mentor` `found family` `Cleveland` `Rust Belt` `dual timeline` `childhood` `reunion` `grief` `transformation` `labyrinth` `minotaur` `summer program` `legacy` `redemption`
 
 ---
 
-## Join the WTFB Community
+## Did You Know?
 
-```
-Use the Tools → Join Community → Take Courses → Get Published → Launch IRL
-      ↓              ↓              ↓              ↓              ↓
-  Write more    Get feedback   Master craft   WTFB publishes   Film/TV
-  Write better  Find collaborators  Network    Promotes you    Distribution
-```
+### Trivia
 
-We're building more than tools. We're building a path from idea to screen:
+- The screenplay uses a "Memory Bridge" structure with 65% present-day scenes and 35% flashbacks
+- "Watch out for minos" is a warning about the labyrinths we build around our wounds—the minotaur isn't the enemy, the labyrinth is
+- Mr. James's character was inspired by real community mentors who transform trauma into service
+- The three protagonists represent three common trauma responses: over-functioning (Marcus), avoidance (Delia), and suppression (Terrence)
+- Cleveland locations include the Detroit-Superior Bridge, Cleveland Public Library, and Lake View Cemetery
 
-- **Use the tools** — Write more, write better
-- **Join the community** — Get feedback, find collaborators
-- **Take our courses** — Master the WTFB methodology
-- **Get published** — Submit your work for WTFB consideration
-- **Launch IRL** — From page to screen, we help make it real
+### Goofs
 
-**Website**: [wordstofilmby.com](https://wordstofilmby.com)
+- *Please report any continuity errors*
 
----
+### Quotes
 
-## Documentation
+**Mr. James**: "Who here believes in magic? The ones who don't believe are usually the ones who need it most."
 
-| Document | Purpose |
-|----------|---------|
-| [docs/QUICKSTART.md](docs/QUICKSTART.md) | Step-by-step setup guide |
-| [AGENTS.md](AGENTS.md) | Complete agent team reference |
-| [docs/REFERENCE.md](docs/REFERENCE.md) | Commands, patterns, structure |
-| [docs/WORKFLOW.md](docs/WORKFLOW.md) | Git workflow guide |
-| [docs/WTFB-HARNESS-PAPER.md](docs/WTFB-HARNESS-PAPER.md) | Architecture deep-dive |
-| [docs/COMPETITIVE-ANALYSIS-MULTI-AGENT-HARNESS.md](docs/COMPETITIVE-ANALYSIS-MULTI-AGENT-HARNESS.md) | Market analysis & positioning |
+**Mr. James**: "The bravest thing a person can do is ask for help. That's crossing the Dragon's Gate."
 
-### Plugin Development Guides
+**Marcus**: "He spent his final months setting up a scavenger hunt for three people who abandoned him."
 
-| Guide | Purpose |
-|-------|---------|
-| [docs/guides/CAPABILITY_CONTRACT.md](docs/guides/CAPABILITY_CONTRACT.md) | Technical spec for plugin authors |
-| [docs/guides/PLUGIN_ARCHITECTURE.md](docs/guides/PLUGIN_ARCHITECTURE.md) | How plugins extend the template |
-| [docs/guides/USER_ACCESS_TIERS.md](docs/guides/USER_ACCESS_TIERS.md) | Access levels (Community, Pro, Internal) |
-| [docs/guides/TEMPLATE_MARKETPLACE_RELATIONSHIP.md](docs/guides/TEMPLATE_MARKETPLACE_RELATIONSHIP.md) | Ecosystem overview |
+**Mr. James** (journal): "Forgive yourselves, children. I already have."
+
+**Marcus**: "I can't do this alone. I need you both."
 
 ---
 
-## Example Projects
+## Connections
 
-| Project | Description |
-|---------|-------------|
-| [seoul-identity](https://github.com/bybren-llc/seoul-identity) | Feature screenplay using full harness |
+### References
+
+- Magical realism: *Big Fish*, *The Green Mile*, *Field of Dreams*
+- Ensemble drama: *The Big Chill*, *Stand By Me*, *Now and Then*
+- Mentor stories: *Good Will Hunting*, *The Karate Kid*, *Finding Forrester*
+- Cleveland settings: *Major League*, *A Christmas Story*
+
+---
+
+## Box Office
+
+In Development
+
+---
+
+## Awards
+
+Not yet released
+
+---
+
+## User Reviews
+
+Coming soon
+
+---
+
+## More Like This
+
+- Big Fish (2003)
+- Stand By Me (1986)
+- The Big Chill (1983)
+- Good Will Hunting (1997)
+- Field of Dreams (1989)
+
+---
+
+## Project Files
+
+| Document | Description |
+|----------|-------------|
+| `mr-james.fountain` | Complete screenplay (~110 pages) |
+| `docs/creative-direction.md` | Writers Room creative vision |
+| `docs/beat-sheet-complete.md` | Full story structure |
+| `docs/theme-discovery.md` | Thematic foundation |
+| `docs/production-annotations.md` | Production planning notes |
+| `sourcematerials/character-dossier-mr-james.md` | Mentor character deep dive |
+| `sourcematerials/character-dossiers-protagonists.md` | Three leads character work |
+| `exports/` | PDF and FDX deliverables |
 
 ---
 
 ## Contributing
 
-We welcome contributions. See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
+This project uses a **lightweight SAFe-style workflow** for both human collaborators and AI agents.
+
+### Branch Types
+
+| Type | Use Case |
+|------|----------|
+| `scene/{slug}` | Single scene work |
+| `revision/{type}` | Full-script passes |
+| `character/{name}` | Character-focused work |
+| `structure/{change}` | Reorganization |
+| `fix/{issue}` | Targeted fixes |
+
+### Quick Start
+
+```bash
+# Create a working branch
+git checkout -b scene/your-scene-name
+
+# Make changes, then commit
+git commit -m "scene(act1): add your scene description"
+
+# Create PR when ready
+```
+
+See `docs/WORKFLOW.md` for complete workflow documentation.
 
 ---
 
-## License
+## Copyright
 
-MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-## Attribution
-
-This project is the **Words To Film By™** multi-agent harness.
-
-**Creator**: J. Scott Graham ([@cheddarfox](https://github.com/cheddarfox)) - [jscottgraham.us](https://jscottgraham.us)
-**Organization**: [Bybren LLC](https://github.com/bybren-llc)
-**Enterprise**: [Words To Film By™](https://wordstofilmby.com)
-
-If you use this harness in your own projects, you must include attribution.
-See [NOTICE](NOTICE) for details.
+(c) 2026 Bren Fowler. All rights reserved.
 
 ---
 
-<p align="center">
-  <strong>Words To Film By™</strong><br>
-  <a href="https://wordstofilmby.com">Website</a> •
-  <a href="mailto:scott@wordstofilmby.com">Contact</a> •
-  <a href="https://github.com/sponsors/bybren-llc">Sponsor</a>
-</p>
-
-<p align="center">
-  <em>"Your creative AI team, ready to work."</em>
-</p>
+*This README follows IMDb formatting conventions for feature film presentation.*

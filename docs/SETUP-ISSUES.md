@@ -24,7 +24,13 @@ Issues discovered during initial project setup on 2026-01-12.
   *.sh text eol=lf
   ```
 
-### 2. Pre-commit Hook npx Bug (BLOCKING)
+### 2. Missing IMDb-Style README Template
+- **Issue**: Project README should follow IMDb-style format, but template wasn't in `templates/`
+- **Discovery**: Had to reference `seoul-identity` project to find the format
+- **Recommendation**: Add `templates/readme-imdb-style.md` to upstream template
+- **Status**: Template created for this project, needs upstream contribution
+
+### 3. Pre-commit Hook npx Bug (BLOCKING)
 - **Issue**: `npx lint-staged` in husky hook fails with "No matching version found for undefined@lint-staged"
 - **Context**: Running `npx lint-staged` directly works fine (v15.5.2)
 - **Environment**: WSL2 + Node v24.10.0 + npm 11.6.1
